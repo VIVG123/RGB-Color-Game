@@ -1,7 +1,7 @@
 body {
 	background-color: #232323;
 	margin: 0;
-	font-family: "Ubuntu";
+	font-family: "ubuntu";
 }
 
 .square {
@@ -36,7 +36,7 @@ h1 {
 	font-size: 200%;
 }
 
-#message{
+#Message{
 	display: inline-block;;
 	width: 20%;
 }
